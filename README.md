@@ -1,1 +1,1 @@
-Useful Python concepts and gotchas that I will probably forget and have to "re-discover" if I don't write them down somewhere :-)
+Useful Pythonic things that I will probably forget and have to re-learn if I don't write them down somewhere :-)
